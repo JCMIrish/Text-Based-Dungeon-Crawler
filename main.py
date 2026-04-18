@@ -1,10 +1,11 @@
-#################################################################################################
-#################################################################################################
-## Written by: JCMIrish                                                                        ## 
-## I am relearning Python so this codebase is not perfect, and could be optimized.             ##
-## Feel free to modify and expand this code as you like! I hope it can be helpful for someone! ##
-#################################################################################################
-#################################################################################################
+'''
+Project Title: TBDC - A simple Text Based Adventure
+Description: A text based adventure where you stumble into a dungeon slay a few foes and confront the King of Rot. Do you have the Strength to face such a foe?
+
+Developed by: JCMIrish                                                                                   
+GitHub: https://github.com/JCMIrish        
+License: MIT                                                                                                    
+'''
 import random
 from time import sleep
 
